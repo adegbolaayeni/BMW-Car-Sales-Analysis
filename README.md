@@ -1,4 +1,4 @@
-# 🚗 BMW Car Sales Analysis – Power BI Dashboard
+# 🚗 BMW Car Sales Report – Power BI Dashboard
 
 ## 📌 Project Overview  
 This project showcases an **interactive Power BI dashboard** analyzing BMW car sales performance across multiple dimensions.  
