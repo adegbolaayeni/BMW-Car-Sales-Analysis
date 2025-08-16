@@ -44,13 +44,6 @@ The dataset contains BMW car sales records with attributes including:
 
 ---
 
-## 📆 Future Enhancements  
-- Add **profit margin analysis** by model and region.  
-- Include **forecasting visuals** to predict future sales trends.  
-- Integrate **customer demographics** for deeper segmentation.
-
----
-
 ## 📎 How to View  
 1. Download the `.pbix` file from this repository.  
 2. Open it in **Power BI Desktop**.  
